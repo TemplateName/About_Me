@@ -1,0 +1,10 @@
+body{
+	background: #66ffff;
+}
+
+.latin-page{
+	background: red;
+}
+a > nav {
+	font-family: sans-serif;
+}
